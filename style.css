@@ -1,0 +1,12 @@
+body {
+    max-width: 1000px;
+}
+
+.section_first,
+.section_second {
+    display: flex;
+}
+
+img {
+    width: 157px;
+}
